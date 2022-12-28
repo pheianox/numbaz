@@ -2,4 +2,4 @@
 
 Converts numbers to words in Azerbaijani
 
-[Demo](https://numbaz.vercel.app)
+[Live Demo](https://numbaz.vercel.app)
